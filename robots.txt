@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pagwi.github.io/Jfs/sitemap.Jfs.gz
