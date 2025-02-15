@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pagwi.csgad.com/Mqb/sitemap.xml.gz
